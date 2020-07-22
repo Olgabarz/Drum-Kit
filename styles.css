@@ -11,8 +11,9 @@ h1 {
 }
 
 p {
-  font-size: 3rem;
+  font-size: 2rem;
   color: #DBEDF3;
+  font-family: "Allura",sans-serif;
 }
   
 footer {
